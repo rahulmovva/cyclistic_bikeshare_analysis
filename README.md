@@ -39,11 +39,11 @@ we then add the columns such as ride_length, start_date, week_day.
 Resolving duplicate ids, eliminate missing values, adjusting the minimum ride_length, adding columns for analysis
 
 ## Analyze
-Scope : * Organize and format the data (including useful aggregate tables)
-        * Identify trends and relationships with the help of calculations, data aggregations, and relevant visuals
-        * Provide a summary of the analysis
-After cleaning the data, it is important to aggregate, organize and format the data. Here we need to perform calculations(descriptive analysis) and understand how casuals and members behave differently.
-Average ride length, mode of weekday, maximum number of rides, busiest days,
+Scope -
+* Organize and format the data (including useful aggregate tables)
+* Identify trends and relationships with the help of calculations, data aggregations, and relevant visuals
+* Provide a summary of the analysis
+After cleaning the data, it is important to aggregate, organize and format the data. Here we need to perform calculations(descriptive analysis) and understand how casuals and members behave differently. Some of the parameters are average ride length, mode of weekday, maximum number of rides, busiest days, types of bikes.
 
 ## Share
 ### Identifying trends and relations - 
@@ -51,7 +51,8 @@ Average ride length, mode of weekday, maximum number of rides, busiest days,
 * Members have consistent usage on working days, active at all times of the day
 * Casuals are numerous during summer, consistently have longer ride lengths year-round, tend to be more active in evenings
 
-### Findings - We can only make generalized statements about the entire population and is insufficient to draw any conclusions. We need more relevant data to fully answer our analysis. 
+### Findings - 
+We can only make generalized statements about the entire population and is insufficient to draw any conclusions. We need more relevant data to fully answer our analysis. 
 
 ## Act
 * Work on new pricing strategy and convey the benifits of biking to the population by running a campaign
