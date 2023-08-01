@@ -39,11 +39,9 @@ we then add the columns such as ride_length, start_date, week_day.
 Resolving duplicate ids, eliminate missing values, adjusting the minimum ride_length, adding columns for analysis
 
 ## Analyze
-Scope -
 * Organize and format the data (including useful aggregate tables)
 * Identify trends and relationships with the help of calculations, data aggregations, and relevant visuals
-* Provide a summary of the analysis
-After cleaning the data, it is important to aggregate, organize and format the data. Here we need to perform calculations(descriptive analysis) and understand how casuals and members behave differently. Some of the parameters are average ride length, mode of weekday, maximum number of rides, busiest days, types of bikes.
+* Provide a summary of the analysis. Some of the parameters are average ride length, mode of weekday, maximum number of rides, busiest days, types of bikes.
 
 ## Share
 ### Identifying trends and relations - 
