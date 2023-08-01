@@ -53,6 +53,6 @@ Resolving duplicate ids, eliminate missing values, adjusting the minimum ride_le
 We can only make generalized statements about the entire population and is insufficient to draw any conclusions. We need more relevant data to fully answer our analysis. 
 
 ## Act
-* Work on new pricing strategy and convey the benifits of biking to the population by running a campaign
+* Work on new pricing strategy and convey the benefits of biking to the population by running a campaign
 * Perks for members - Since both casuals and members have similar level of service as first-come-first-serve, this can be frustrating for members as it causes inconvenience in finding a suitable bike. So it's better to give them privilege of reserving a bike ahead of the trip. This increases the service offering and may be a small amount of casuals may also convert to members
 * Weekend special pass for casuals - Incentivize casual users to increase their bike usage frequency by providing special passes in the weekends
