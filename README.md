@@ -23,8 +23,8 @@ I am using Python language for working on data as it is more accessible and easi
 The first step while starting any analysis is to import appropriate libraries in the notebook.
 
 Some of the important libraries are:
-
-Pandas - Pandas allows importing data from various file formats such as comma-separated values (CSV), JSON, SQL, Excel. Pandas allows various data manipulation operations such as merging, reshaping, selecting, as well as data cleaning, and data wrangling features.
+Pandas - Pandas allows importing data from various file formats such as comma-separated values (CSV), JSON, SQL, Excel. Pandas allows various data manipulation operations such as merging, 
+         reshaping, selecting, as well as data cleaning, and data wrangling features.
 Numpy - It can be used to perform a number of mathematical operations like trigonometric, statistical, and algebraic on arrays.
 Matplotlib and Seaborn - It is used to create graphical analysis of the data.
 Datetime - These classes provide a number of functions to deal with dates, times and time intervals.
